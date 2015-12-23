@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ジェラート　ピケ | gelato pique Official Site | WEBカタログ</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" /><!--use_css-->
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><!--use_javascript-->
+<meta name="Description" content="可愛いルームウェアgelato pique&quot;ジェラートピケ&quot;のデジタルカタログ。" />
+<meta name="Keywords" content="カタログ,catalogue,ジェラート・ピケ,gelato pique,ルームウェア,部屋着,モコモコ,マッシュスタイルラボ,マッシュホールディングス">
+<meta name="viewport" content="width=device-width">
+<link rel="apple-touch-icon" href="http://gelatopique.com/apple-touch-icon.png">
+<link rel="icon" type="image/vnd.microsoft.icon" href="favicon_pi.ico">
+
+<link rel="stylesheet" type="text/css" href="js/FullscreenBookblock/jquery.jscrollpane.custom.css" /><!--FullscreenBookblock-->
+<link rel="stylesheet" type="text/css" href="js/FullscreenBookblock/bookblock.css" /><!--FullscreenBookblock-->
+<link rel="stylesheet" type="text/css" href="js/FullscreenBookblock/custom.css" />
+<script type="text/javascript" src="js/analytics.js"></script><!-- analytics -->
+
+<!--FullscreenBookblock-->
+<script src="js/FullscreenBookblock/modernizr.custom.79639.js"></script><!--FullscreenBookblock-->
+
+</head>
+
+<body>
+<div id="container" class="container">	
+
+
+<div class="bb-custom-wrapper">
+
+    <div id="bb-bookblock" class="bb-bookblock">
+        <div class="bb-item"><img src="img/catalog/01.jpg" alt="gelato pique COLLECTION No.28" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/02.jpg" alt="p2p3" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/03.jpg" alt="p4p5" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/04.jpg" alt="p6p7" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/05.jpg" alt="p8p9" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/06.jpg" alt="p10p11" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/07.jpg" alt="p12p13" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/08.jpg" alt="p14p15" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/09.jpg" alt="p16p17" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/10.jpg" alt="p18p19" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/11.jpg" alt="p20p21" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/12.jpg" alt="p22p23" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/13.jpg" alt="p24p25" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/14.jpg" alt="p26p27" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/15.jpg" alt="p28p29" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/16.jpg" alt="p30p31" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/17.jpg" alt="p32p33" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/18.jpg" alt="p34p35" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/19.jpg" alt="p36p37" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/20.jpg" alt="p38p39" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/21.jpg" alt="p40p41" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/22.jpg" alt="p42p43" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/23.jpg" alt="p44p45" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/24.jpg" alt="p46p47" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/25.jpg" alt="p48p49" width="100%"></div>
+        <div class="bb-item"><img src="img/catalog/26.jpg" alt="p50p51" width="100%"></div>
+
+    </div><!-- / #bb-bookblock .bb-bookblock -->
+    
+    <nav>
+    	<!--<a id="bb-nav-first" href="#" class="bb-custom-icon">＜</a>-->
+        <a id="bb-nav-prev" href="#" class="bb-custom-icon"><img src="img/catalog/spacer.gif" /></a>
+        <a id="bb-nav-next" href="#" class="bb-custom-icon"><img src="img/catalog/spacer.gif" /></a>
+    	<!--<a id="bb-nav-last" href="#" class="bb-custom-icon">＞</a>-->
+    </nav>
+
+
+
+<!--    <p id="smtMessage">左右中央部分をスワイプ（ドラッグ）してもページをめくれます。スマートフォンでは画面を横にしてご覧ください。<br />
+掲載商品は、すべて税抜き価格になります。</p>
+</div>--><!-- / .bb-custom-wrapper -->
+
+</div><!-- / #container .container -->
+
+
+<!--FullscreenBookblock-->
+<script src="js/jquery-1.9.1.min.js"></script>
+<script src="js/FullscreenBookblock/jquery.mousewheel.js"></script>
+<script src="js/FullscreenBookblock/jquery.jscrollpane.min.js"></script>
+<script src="js/FullscreenBookblock/jquerypp.custom.js"></script>
+<script src="js/FullscreenBookblock/jquery.bookblock.js"></script>
+<script src="js/FullscreenBookblock/page.js"></script>
+<script>
+	$(function() {
+	Page.init();
+	});
+</script>
+<!--FullscreenBookblock-->
+
+<!--FullscreenBookblock-->
+<script src="js/FullscreenBookblock/jquery-1.8.3.min.js"></script>
+<script src="js/FullscreenBookblock/jquery.mousewheel.js"></script>
+<script src="js/FullscreenBookblock/jquery.jscrollpane.min.js"></script>
+<script src="js/FullscreenBookblock/jquerypp.custom.js"></script>
+<script src="js/FullscreenBookblock/jquery.bookblock.js"></script>
+<script src="js/FullscreenBookblock/page.js"></script>
+<script>
+	$(function() {
+	Page.init();
+	});
+</script>
+<!--FullscreenBookblock-->
+
+</body>
+</html>
